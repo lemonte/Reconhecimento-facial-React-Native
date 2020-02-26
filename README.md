@@ -26,7 +26,6 @@ Para saber mais sobre essas bibliotecas acesso a documentação do expo no link 
 Agora partindo para o codigo substitua em App.js o codigo que ja vem padrao por
 
 
-{
 
 import React from 'react'
 import { Text, View } from 'react-native'
@@ -114,10 +113,8 @@ class MainView extends React.Component {
     )
   }
 }
-
 export default MainView
 
-}
 
 
 
@@ -135,7 +132,7 @@ e cole o seguinte codigo
 
 
 
-{
+
 import React from 'react'
 import { Image } from 'react-native';
 import { Text, View } from 'react-native';
@@ -260,9 +257,8 @@ const Mask = ({
         </>
     );
 };
-
 export default Mask
-}
+
 
 
 
