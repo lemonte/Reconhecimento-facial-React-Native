@@ -29,7 +29,6 @@ Agora partindo para o codigo substitua em App.js o codigo que ja vem padrao por
 
 import React from 'react'
 import { Text, View } from 'react-native'
-// Import FaceDetector from expo lib
 import * as FaceDetector from 'expo-face-detector';
 import * as Permissions from "expo-permissions";
 import { Camera } from 'expo-camera';
