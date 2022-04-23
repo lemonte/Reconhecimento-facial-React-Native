@@ -25,6 +25,15 @@ Para saber mais sobre essas bibliotecas acesso a documentação do expo no link 
 
 Agora partindo para o codigo substitua em App.js o codigo que ja vem padrao por
 
+## Video do projeto 
+
+
+
+https://user-images.githubusercontent.com/48225849/164895484-c43b58de-9975-484b-b5be-4654f41dc8b3.mp4
+
+
+
+
 # CÓDIGO MainView
 
       import React from 'react'
